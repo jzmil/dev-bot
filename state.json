@@ -1,0 +1,287 @@
+{
+  "games": {
+    "10047963177": {
+      "created": "2026-04-17T19:20:30.949Z",
+      "name": "Make a World!",
+      "root_place_id": 117260716780190,
+      "sources": [
+        "User 7627847305"
+      ],
+      "universe_id": "10047963177",
+      "updated": "2026-04-21T05:55:44.705Z"
+    },
+    "10096812743": {
+      "created": "2026-04-28T22:42:14.628Z",
+      "name": "Growing Gardens",
+      "root_place_id": 140261204846044,
+      "sources": [
+        "User 71552399"
+      ],
+      "universe_id": "10096812743",
+      "updated": "2026-04-28T22:42:38.49Z"
+    },
+    "10109812129": {
+      "created": "2026-05-01T23:22:57.453Z",
+      "name": "Plants with Friends",
+      "root_place_id": 87475167337098,
+      "sources": [
+        "User 71552399"
+      ],
+      "universe_id": "10109812129",
+      "updated": "2026-05-02T01:50:12.969Z"
+    },
+    "10148434559": {
+      "created": "2026-05-10T14:27:05.984Z",
+      "name": "Lucky Block Rush",
+      "root_place_id": 84575720768520,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10148434559",
+      "updated": "2026-10-10T11:41:28.316Z"
+    },
+    "10183207511": {
+      "created": "2026-05-17T18:50:13.727Z",
+      "name": "ooo ahh",
+      "root_place_id": 124493526838259,
+      "sources": [
+        "User 71552399"
+      ],
+      "universe_id": "10183207511",
+      "updated": "2026-05-20T05:59:20.948Z"
+    },
+    "10371406677": {
+      "created": "2026-06-21T18:51:59.367Z",
+      "name": "Race for Eggs",
+      "root_place_id": 122278212262864,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10371406677",
+      "updated": "2026-10-16T13:41:48.885Z"
+    },
+    "10402792340": {
+      "created": "2026-06-27T09:16:58.357Z",
+      "name": "Dumpling Stars",
+      "root_place_id": 95829667226336,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10402792340",
+      "updated": "2026-10-10T11:53:51.876Z"
+    },
+    "10447667353": {
+      "created": "2026-07-04T20:22:05.404Z",
+      "name": "Clean a Jewelry Store",
+      "root_place_id": 140684092494016,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10447667353",
+      "updated": "2026-09-29T02:03:04.343Z"
+    },
+    "10632524471": {
+      "created": "2026-08-04T22:51:36.587Z",
+      "name": "Merge & Dig Simulator!",
+      "root_place_id": 74569490529875,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10632524471",
+      "updated": "2026-10-10T11:50:52.042Z"
+    },
+    "10765091041": {
+      "created": "2026-09-04T13:17:58.743Z",
+      "name": "Open Sea For Animals!",
+      "root_place_id": 88047783411976,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10765091041",
+      "updated": "2026-10-16T14:55:23.199Z"
+    },
+    "10766008884": {
+      "created": "2026-09-11T14:24:12.141Z",
+      "name": "Clone to Steal Eggs",
+      "root_place_id": 76943966208523,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10766008884",
+      "updated": "2026-10-16T17:38:14.872Z"
+    },
+    "10767566226": {
+      "created": "2026-09-22T04:28:22.867Z",
+      "name": "Don't Steal My Eggs!",
+      "root_place_id": 135675416428111,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10767566226",
+      "updated": "2026-10-16T17:37:50.679Z"
+    },
+    "10767696203": {
+      "created": "2026-09-23T08:17:26.159Z",
+      "name": "Punch Wall for Eggs",
+      "root_place_id": 79787679564169,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10767696203",
+      "updated": "2026-10-16T13:34:04.475Z"
+    },
+    "10767750755": {
+      "created": "2026-09-23T17:55:35.889Z",
+      "name": "Steal the Animal!",
+      "root_place_id": 77245166368225,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10767750755",
+      "updated": "2026-10-16T15:45:55.906Z"
+    },
+    "10767949657": {
+      "created": "2026-09-25T04:57:28.894Z",
+      "name": "Climb and Drop an Egg",
+      "root_place_id": 115893159267276,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10767949657",
+      "updated": "2026-10-16T13:22:39.339Z"
+    },
+    "10768720405": {
+      "created": "2026-09-30T12:18:49.553Z",
+      "name": "Fight Animals for Eggs!",
+      "root_place_id": 80155477652624,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10768720405",
+      "updated": "2026-10-16T13:33:40.955Z"
+    },
+    "10769477303": {
+      "created": "2026-10-05T12:09:49.567Z",
+      "name": "Sisyphus for Eggs!",
+      "root_place_id": 132325243931139,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10769477303",
+      "updated": "2026-10-16T16:14:53.606Z"
+    },
+    "10770536044": {
+      "created": "2026-10-12T15:30:41.77Z",
+      "name": "Split Mountain for Eggs",
+      "root_place_id": 104411401076170,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "10770536044",
+      "updated": "2026-10-16T13:52:08.381Z"
+    },
+    "5534151893": {
+      "created": "2024-01-16T21:23:28.43Z",
+      "name": "I SEE YOU",
+      "root_place_id": 16008757546,
+      "sources": [
+        "User 71552399"
+      ],
+      "universe_id": "5534151893",
+      "updated": "2025-11-21T04:23:20.557Z"
+    },
+    "9515253079": {
+      "created": "2026-01-06T20:09:21.75Z",
+      "name": "Tsunami Escape For Lucky Blocks",
+      "root_place_id": 78466692190766,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9515253079",
+      "updated": "2026-09-22T15:54:36.136Z"
+    },
+    "9526065083": {
+      "created": "2026-01-08T17:53:42.977Z",
+      "name": "Escape Worm For Lucky Blocks",
+      "root_place_id": 88467712943267,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9526065083",
+      "updated": "2026-09-08T16:38:57.388Z"
+    },
+    "9586280243": {
+      "created": "2026-01-18T23:28:42.77Z",
+      "name": "Skate Waves For Brainrots",
+      "root_place_id": 79492008273466,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9586280243",
+      "updated": "2026-07-15T00:56:38.56Z"
+    },
+    "9590247304": {
+      "created": "2026-01-19T17:56:44.697Z",
+      "name": "Stealing From Brainrots",
+      "root_place_id": 119466945542043,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9590247304",
+      "updated": "2026-09-17T22:43:38.165Z"
+    },
+    "9678447062": {
+      "created": "2026-02-05T11:54:53.883Z",
+      "name": "Brainrot Imposter",
+      "root_place_id": 135824740756611,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9678447062",
+      "updated": "2026-10-14T00:14:36.492Z"
+    },
+    "9755310171": {
+      "created": "2026-02-19T02:12:45.253Z",
+      "name": "Block Stars",
+      "root_place_id": 127530947262637,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9755310171",
+      "updated": "2026-09-21T14:31:11.561Z"
+    },
+    "9787206684": {
+      "created": "2026-02-24T01:08:35.757Z",
+      "name": "Be a Lucky Block",
+      "root_place_id": 124473577469410,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9787206684",
+      "updated": "2026-10-13T13:37:27.743Z"
+    },
+    "9875490438": {
+      "created": "2026-03-13T14:07:04.676Z",
+      "name": "Open Sea For Brainrots!",
+      "root_place_id": 114349086251135,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9875490438",
+      "updated": "2026-10-04T03:11:11.143Z"
+    },
+    "9958694666": {
+      "created": "2026-03-29T13:20:26.421Z",
+      "name": "Race Your Lucky Block",
+      "root_place_id": 105742951729183,
+      "sources": [
+        "Group 719390069"
+      ],
+      "universe_id": "9958694666",
+      "updated": "2026-10-10T11:38:52.089Z"
+    }
+  },
+  "heartbeat_month": "2026-10",
+  "initialized": true,
+  "version": 1
+}
